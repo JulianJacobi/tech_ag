@@ -1,0 +1,16 @@
+How to Install tech_ag:
+
+1. You need a Apache2, PHP5 and MYSQL Server (optional a PHPmyAdmin Installation)
+
+2. copy all files to your web folder (on Linux systems in /var/www the default path)
+
+3. insert the *.sql file in the db folder to the Database
+
+4. have fun with the tech_ag website or better the backend/CMS
+
+After the MySQL dump a default user is inserted with all rights:
+
+username: root@tech_ag
+password: testing
+
+A more detailed documentation of the techCMS backend follows in the next weeks or mounths.
