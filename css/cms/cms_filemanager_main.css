@@ -1,0 +1,55 @@
+div#cms_filemgr_upload {
+	box-shadow: 0px 0px 5px 1px black;
+	border-radius: 20px;
+	width: 300px;
+	font-family: Arial;
+	padding: 30px;
+	position: relative;
+	left: 50%;
+	margin-left: -180px;
+	margin-top: 30px;
+}
+p.cms_filemgr_upload_headline {
+	font-weight: bold;
+	font-size: 30px;
+	text-align: center;
+	padding: 0px;
+	margin: 0px 0px 20px 0px;
+}
+input.cms_filemgr_upload_submit {
+	padding: 7px;
+	margin-top: 20px;
+	border-radius: 5px;
+	border: 0px;
+	box-shadow: 0px 0px 3px black;
+	background: white;
+	position: relative;
+	width: 100%;
+	font-size: 15px;
+}
+input.cms_filemgr_upload_submit:hover{
+	box-shadow: inset 0px 0px 3px black;
+	cursor: pointer;
+
+}
+div#cms_filemgr_list {
+	box-shadow: 0px 0px 5px 1px black;
+	border-radius: 20px;
+	font-family: Arial;
+	padding: 30px;
+	width: 800px;
+	position: relative;
+	left: 50%;
+	margin-left: -400px;
+	margin-top: 30px;
+}
+p.cms_filemgr_list_headline {
+	font-weight: bold;
+	font-size: 30px;
+	text-align: center;
+	padding: 0px;
+	margin: 0px 0px 20px 0px;
+}
+table.cms_filemgr_list_table {
+	width: 740px;
+}

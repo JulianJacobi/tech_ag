@@ -1,0 +1,29 @@
+body {
+	width: 800px;
+	margin: 0px auto 0px auto;
+	box-shadow: 0px 0px 6px black;
+}
+div#content {
+	padding: 20px;
+	font-family: arial;
+}
+p.content_headline {
+	font-size: 30px;
+	font-weight: bold;
+	padding: 0px;
+	margin: 40px 0px 0px 0px;
+}
+div#content_content {
+	margin: 20px 0px 0px 0px;
+}
+div#footer {
+	font-size: 10px;
+	font-family: arial;
+	text-align: center;
+	padding: 10px;
+}
+p.footer {
+	border-top: 1px solid black;
+	width: 200px;
+	margin: 0px auto 0px auto;
+}

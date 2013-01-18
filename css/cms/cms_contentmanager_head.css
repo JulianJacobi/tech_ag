@@ -1,0 +1,15 @@
+div#head {
+	height: 250px;
+	overflow: hidden;
+}
+img#headline {
+	position: relative;
+	top: -250px;
+}
+img#cjd {
+	width: 200px;
+	position: relative;
+	top: -265px;
+	left: 196px;
+	border-radius: 0px 0px 10px 10px
+}

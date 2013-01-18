@@ -1,0 +1,51 @@
+div#login_field {
+	box-shadow: 0px 0px 5px 1px black;
+	border-radius: 20px;
+	width: 300px;
+	font-family: Arial;
+	padding: 30px;
+	position: absolute;
+	left: 50%;
+	top: 50px;
+	margin-left: -180px;
+}
+p.login_form_headline {
+	font-weight: bold;
+	font-size: 30px;
+	text-align: center;
+	padding: 0px;
+	margin: 0px 0px 20px 0px;
+}
+p.login_form_text {
+	font-size: 10px;
+	padding: 0px;
+	margin: 10px 0px 0px 0px;
+}
+p.login_form_error {
+	color: red;
+	text-align: center;
+	margin-top: 20px;
+}
+input.login_form_input {
+	padding: 7px;
+	border-radius: 5px;
+	border: 0px;
+	box-shadow: inset 0px 0px 3px black;
+	width: 100%;
+	font-size: 15px;
+}
+.login_form_submit {
+	padding: 7px;
+	margin-top: 10px;
+	border-radius: 5px;
+	border: 0px;
+	box-shadow: 0px 0px 3px black;
+	background: white;
+	position: relative;
+	width: 100%;
+	font-size: 15px;
+}
+.login_form_submit:hover {
+	box-shadow: inset 0px 0px 3px black;
+	cursor: pointer;
+}

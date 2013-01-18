@@ -1,0 +1,11 @@
+p.cms_preview_headline {
+	font-family: arial;
+	font-size: 30px;
+	font-weight: bold;
+	padding: 0px;
+	margin: 20px 0px 0px 0px;
+}
+div#cms_preview_content {
+	margin: 20px 0px 0px 0px;
+	font-family: arial;
+}

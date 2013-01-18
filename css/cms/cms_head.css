@@ -1,0 +1,22 @@
+div#cms_head {
+	padding: 0px 0px 0px 0px;
+	margin: 0px;
+	width: 100%;
+	background: #444444;
+	box-shadow: 0px 0px 10px 5px #555555;
+	line-height: 2;
+}
+a.cms_head_link {
+	display: inline-block;
+	width: 100%;
+	line-height: 2;
+	text-decoration: none;
+	color: white;
+	font-family: Arial;
+	text-align: center;
+	width: 10em;
+}
+a.cms_head_link:hover {
+	background-color: white;
+	color: #555555;
+}

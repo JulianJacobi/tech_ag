@@ -1,0 +1,1 @@
+<p class="footer">&copy;2013 Julian Jacobi - <a href="?id=impressum">Impressum</a></p>
